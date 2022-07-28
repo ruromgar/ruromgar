@@ -2,7 +2,7 @@
 
 - *Software Engineer at [Numan](https://www.numan.com/)*
 - *Machine Learning Instructor at [KeepCoding](https://keepcoding.io/)*
-- *Freelance Software Engineer: ✉️ [email](mailto:ruromgar@gmail.com) or 💬 [issue](https://github.com/ruromgar/ruromgar/issues/me) me about anything!*
+- *Freelance: ✉️ [email](mailto:ruromgar@gmail.com) or 💬 [issue](https://github.com/ruromgar/ruromgar/issues/me) me about freelancing! Software Engineering, Data Science or Data Engineering*
 
 [<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px" alt="LinkedIn"/>](https://www.linkedin.com/in/ruromgar)
 &nbsp;&nbsp;&nbsp;&nbsp;
