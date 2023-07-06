@@ -21,5 +21,3 @@
 ### A little more about me...  
 
 Interested in environmentalism, urban music and causal inference - in that order. Currently learning about NLP. My Pronouns: He/Him :)
-
-[![Ruben's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruromgar&theme=dark&hide=html,jupyter%20%notebook)]()
