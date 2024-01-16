@@ -4,10 +4,8 @@
 - *Machine Learning Instructor at [KeepCoding](https://keepcoding.io/)*
 - *Freelance: ✉️ [email](mailto:ruromgar@gmail.com) or 💬 [issue](https://github.com/ruromgar/ruromgar/issues/me) me about freelancing! Software Engineering, Data Science or Data Engineering*
 
-[<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px" alt="LinkedIn"/>](https://www.linkedin.com/in/ruromgar)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/Medium/medium-logos/master/03_Symbol/01_Black/SVG/Medium-Symbol-Black-RGB.svg" width="22px" alt="Medium"/>](https://medium.com/@ruromgar)
-&nbsp;&nbsp;&nbsp;&nbsp;
+[LinkedIn](https://www.linkedin.com/in/ruromgar)
+[Medium](https://medium.com/@ruromgar)
 
 ### Tech Stack
 
