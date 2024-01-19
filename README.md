@@ -2,7 +2,7 @@
 
 - Software Engineer at [Numan](https://www.numan.com/)
 - Machine Learning Instructor at [KeepCoding](https://keepcoding.io/nuestros-bootcamps/full-stack-big-data-machine-learning-bootcamp/)
-- [Email ✉️](mailto:ruromgar@gmail.com) or [issue 💬](https://github.com/ruromgar/ruromgar/issues/me) me about freelancing: Software Engineering, Data Science or Data Engineering. Currently doing some fancy data stuff at [Neurons](https://www.neuronsinc.com/)
+- [Contact ✉️](mailto:ruromgar@gmail.com) me about freelancing: SWE, Data Science or Data Engineering. Currently doing some fancy data stuff at [Neurons](https://www.neuronsinc.com/)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="22px" alt="LinkedIn"/>](https://www.linkedin.com/in/ruromgar)
 &nbsp;&nbsp;&nbsp;&nbsp;
