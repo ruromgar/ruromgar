@@ -1,21 +1,24 @@
-## Hi, I'm Ruben!
+## Hi, I'm Ruben (:
 
-- *Software Engineer at [Numan](https://www.numan.com/)*
-- *Machine Learning Instructor at [KeepCoding](https://keepcoding.io/)*
-- *Freelance: ✉️ [email](mailto:ruromgar@gmail.com) or 💬 [issue](https://github.com/ruromgar/ruromgar/issues/me) me about freelancing! Software Engineering, Data Science or Data Engineering*
+- Software Engineer at [Numan](https://www.numan.com/)
+- Machine Learning Instructor at [KeepCoding](https://keepcoding.io/nuestros-bootcamps/full-stack-big-data-machine-learning-bootcamp/)
+- [Email ✉️](mailto:ruromgar@gmail.com) or [issue 💬](https://github.com/ruromgar/ruromgar/issues/me) me about freelancing: Software Engineering, Data Science or Data Engineering. Currently doing some fancy data stuff at [Neurons](https://www.neuronsinc.com/)
 
-[LinkedIn](https://www.linkedin.com/in/ruromgar)
-[Medium](https://medium.com/@ruromgar)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="22px" alt="LinkedIn"/>](https://www.linkedin.com/in/ruromgar)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Medium_Logo.webp/220px-Medium_Logo.webp.png" width="22px" alt="Medium"/>](https://medium.com/@ruromgar)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" width="22px" alt="Telegram"/>](https://t.me/ruromgar)
 
 ### Tech Stack
 
-[This is my CV](https://docs.google.com/document/d/1f8hWW5h_dxcNqgPRNuVpLnFsyYe0Ne40wSAYaeuVa-o/edit?usp=sharing), and here's a TL;DR:
+[This is my CV](https://docs.google.com/document/d/1f8hWW5h_dxcNqgPRNuVpLnFsyYe0Ne40wSAYaeuVa-o/edit?usp=sharing), and here's a tl;dr:
 
-- Python: scripting, backend with Django or FastAPI, ML, pretty much anything. *[+9 years of experience]*
-- Machine Learning: scikit-learn, numpy, pandas, scripting, notebooks. A little taste of DS, a little taste of DE. *[+5 years of experience]*
-- .NET stack, mainly C#. Not really interested anymore - just maintaining some projects. *[+8 years of experience]*
-- SQL, NoSQL, Docker, CI/CD, AWS, GCP, Scrum. The usual stuff.
+- Python: backend with Django or FastAPI, ML, scripting, pretty much anything.
+- Data Engineering & Data Science : Python (pyspark, scikit-learn, numpy, pandas), SQL.
+- Databases: MySQL, Postgresql, Oracle, BigQuery, Redis, MongoDB...
+- Others: Docker, CI/CD, AWS, GCP, Scrum. The usual stuff.
 
 ### A little more about me...  
 
-Interested in environmentalism, urban music and causal inference - in that order. Currently learning about NLP. My Pronouns: He/Him :)
+Interested in environmentalism ([join us!](https://github.com/Common-Action)), urban music, bodybuilding and causal inference - in that order. Currently learning about NLP cause I think it's cool.
