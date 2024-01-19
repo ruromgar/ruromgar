@@ -10,7 +10,7 @@
 
 - Software Engineer at [Numan](https://www.numan.com/)
 - Machine Learning Instructor at [KeepCoding](https://keepcoding.io/nuestros-bootcamps/full-stack-big-data-machine-learning-bootcamp/)
-- [Contact ✉️](mailto:ruromgar@gmail.com) me about freelancing: SWE, Data Science or Data Engineering. Currently doing some fancy data stuff at [Neurons](https://www.neuronsinc.com/)
+- [Contact ✉️](mailto:ruromgar@gmail.com) me about freelancing: SWE, Data Science or Data Engineering. Right now I'm doing fancy data stuff at [Neurons](https://www.neuronsinc.com/)
 
 ### Tech Stack
 
