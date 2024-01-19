@@ -1,14 +1,16 @@
 ## Hi, I'm Ruben (:
 
-- Software Engineer at [Numan](https://www.numan.com/)
-- Machine Learning Instructor at [KeepCoding](https://keepcoding.io/nuestros-bootcamps/full-stack-big-data-machine-learning-bootcamp/)
-- [Contact ✉️](mailto:ruromgar@gmail.com) me about freelancing: SWE, Data Science or Data Engineering. Currently doing some fancy data stuff at [Neurons](https://www.neuronsinc.com/)
-
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="22px" alt="LinkedIn"/>](https://www.linkedin.com/in/ruromgar)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Medium_Logo.webp/220px-Medium_Logo.webp.png" width="22px" alt="Medium"/>](https://medium.com/@ruromgar)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" width="22px" alt="Telegram"/>](https://t.me/ruromgar)
+
+### What I'm currently doing
+
+- Software Engineer at [Numan](https://www.numan.com/)
+- Machine Learning Instructor at [KeepCoding](https://keepcoding.io/nuestros-bootcamps/full-stack-big-data-machine-learning-bootcamp/)
+- [Contact ✉️](mailto:ruromgar@gmail.com) me about freelancing: SWE, Data Science or Data Engineering. Currently doing some fancy data stuff at [Neurons](https://www.neuronsinc.com/)
 
 ### Tech Stack
 
