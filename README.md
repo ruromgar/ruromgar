@@ -20,6 +20,7 @@
 - Data Engineering & Data Science : Python (pyspark, scikit-learn, numpy, pandas), SQL.
 - Databases: MySQL, Postgresql, Oracle, BigQuery, Redis, MongoDB...
 - Others: Docker, CI/CD, AWS, GCP, Scrum. The usual stuff.
+- Fun fact: I come from a C# background, so I'm proficient with the .NET stack. But I don't really work on that anymore.
 
 ### A little more about me...  
 
