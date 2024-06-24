@@ -10,7 +10,7 @@
 
 - Software Engineer at [Numan](https://www.numan.com/)
 - Machine Learning Instructor at [KeepCoding](https://keepcoding.io/nuestros-bootcamps/full-stack-big-data-machine-learning-bootcamp/)
-- [Contact me](mailto:ruromgar@gmail.com) about freelancing: SWE, Data Science or Data Engineering. Right now I'm doing fancy data stuff at [Neurons](https://www.neuronsinc.com/)
+- [Contact me](mailto:ruromgar@gmail.com) about freelancing: SWE, Data Science or Data Engineering. Right now I'm doing fancy data stuff at [Common Action](https://www.common-action.org/)
 
 ### Tech Stack
 
@@ -18,7 +18,7 @@
 
 - Python: backend with Django or FastAPI, ML, scripting, pretty much anything.
 - Data Engineering & Data Science : Python (pyspark, scikit-learn, numpy, pandas), SQL.
-- Databases: MySQL, Postgresql, Oracle, BigQuery, Redis, MongoDB...
+- Databases: MySQL, Postgresql, Oracle, BigQuery, Redis, MongoDB, AllegroGraph...
 - Others: Docker, CI/CD, AWS, GCP, Scrum. The usual stuff.
 - Fun fact: I come from a C# background, so I'm proficient with the .NET stack. But I don't really work on that anymore.
 
