@@ -10,7 +10,7 @@
 
 - Software Engineer at [Numan](https://www.numan.com/)
 - Machine Learning Instructor at [KeepCoding](https://keepcoding.io/nuestros-bootcamps/full-stack-big-data-machine-learning-bootcamp/)
-- [Contact me](mailto:ruromgar@gmail.com) about freelancing: SWE, Data Science or Data Engineering. Right now I'm doing fancy data stuff at [Common Action](https://www.common-action.org/)
+- [Contact me](mailto:ruromgar@gmail.com) about freelancing: SWE, Data Science or Data Engineering.
 
 ### Tech Stack
 
@@ -24,4 +24,4 @@
 
 ### A little more about me...  
 
-Interested in environmentalism ([join us!](https://github.com/Common-Action)), urban music, bodybuilding and causal inference - in that order. Currently learning about NLP cause I think it's cool.
+Interested in environmentalism, urban music, bodybuilding and causal inference - in that order. Currently learning about NLP cause I think it's cool.
